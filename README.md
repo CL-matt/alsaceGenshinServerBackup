@@ -57,7 +57,7 @@ However, if you need a more detailed guide and help with the server please refer
 
 - Clone the repository (install [Git](https://git-scm.com) first )
 ```
-git clone https://github.com/Kei-Luna/LunaGC_5.0.0.git
+git clone https://github.com/CL-matt/alsaceGenshinServer.git
 ```
 
 - Now you can continue with the steps below.
