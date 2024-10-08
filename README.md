@@ -1,7 +1,7 @@
 # Setup Guide
 
 This guide is very minimal and contains steps to just get your server and client up and running.
-However, if you need a more detailed guide and help with the server please refer to GrassCutter's official repository and discord server.
+However, if you need a more detailed guide and help with the server please refer to GrassCutter's official repository.
 
 
 ## You'll need a proxy to connect to the server.
